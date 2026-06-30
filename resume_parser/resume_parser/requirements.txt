@@ -1,6 +1,0 @@
-streamlit
-pymupdf
-python-docx
-spacy
-pandas
-reportlab
